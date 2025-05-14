@@ -7,6 +7,7 @@ export default function Home() {
 
       <div className="flex flex-col justify-center items-center">
         <p className="pt-10 text-3xl">Víctor Daniel Flores Trejo</p>
+        <p className="pt-10 text-3xl">Jesus David Chavez Rojas</p>
       </div>
     </div>
   );
