@@ -8,6 +8,9 @@ export default function Home() {
       <div className="flex flex-col justify-center items-center">
         <p className="pt-10 text-3xl">Víctor Daniel Flores Trejo</p>
       </div>
+      <div className="flex flex-col justify-center items-center">
+        <p className="pt-10 text-3xl">Alejandro Bautista Beltrán jeje</p>
+      </div>
     </div>
   );
 }
